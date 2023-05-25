@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧘‍♂️ I'm in my depth year.
+- 🧘‍♂️ I'm not in my depth year.
 
 <!-- 
 - 🔭 I’m currently working on many things.
